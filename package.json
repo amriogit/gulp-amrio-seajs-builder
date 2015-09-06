@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "amrio-seajs-builder for gulp plugin",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "amrio-seajs-builder",
     "cmd",
@@ -13,7 +12,7 @@
   "author": "Amrio",
   "license": "MIT",
   "dependencies": {
-    "amrio-seajs-builder": "^1.0.1",
+    "amrio-seajs-builder": "^2.0.0-alpha",
     "gulp-util": "^3.0.6",
     "through2": "^2.0.0"
   }
